@@ -1,0 +1,11 @@
+# IDE files
+.classpath
+.project
+.settings/
+
+# Build folders
+bin/
+target/
+
+# Logs
+*.log
